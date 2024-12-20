@@ -14,8 +14,8 @@ Technologies : JavaScript
 
 IDE : VSCode
 
-OS : Windows 
+OS : Windows
 
-## Utilisation 
+## Utilisation
 
 S'exécute via la Console
