@@ -1,4 +1,4 @@
-09_sapin
+Sapin
 
 ## À propos 
 Cet exercice individuel consiste a utiliser les boucles et les imbrications de boucles pour construire un beau sapin, roi des forêts 🎄
